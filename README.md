@@ -64,6 +64,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔗 [**URL Shortener API**](https://github.com/boltreskh/urlshortener) | API simples e rápida de encurtamento de URLs com Java e Spring Boot. | Java + Spring Boot |
+| 🛡️ [**Aegis Identity API**](https://github.com/boltreskh/aegisidentity) | API leve de autenticação com Python e FastAPI e suporte a JWT. | Python + FastAPI |
 
 ---
 
