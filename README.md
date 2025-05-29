@@ -65,7 +65,7 @@
 |--------|-----------|-------------|
 | 🔗 [**URL Shortener API**](https://github.com/boltreskh/urlshortener) | API simples e rápida de encurtamento de URLs com Java e Spring Boot. | Java + Spring Boot |
 | 🛡️ [**Aegis Identity API**](https://github.com/boltreskh/aegisidentity) | API leve de autenticação com Python e FastAPI e suporte a JWT. | Python + FastAPI |
-| 🤖 [**Almail AI Support**](https://github.com/boltreskh/Almail) | App web inteligente com IA para suporte da equipe de Cartões do Mercado Pago, com chat, feedback e design responsivo. | HTML + CSS + JavaScript + Tailwind + Gemini API |
+| 🤖 [**Almail AI Support**](https://github.com/boltreskh/Almail) | Aplicação web inteligente com IA para suporte das equipes do ecossistema Mercado Livre e Mercado Pago, com chat, feedback e design responsivo. | HTML + CSS + JavaScript + Tailwind + Gemini API |
 
 ---
 
