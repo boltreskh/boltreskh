@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-header-image.png" width="1000" alt="Header">
+  <img src="./assets/github-header-image.png" width="1050" alt="Header">
 </p>
 
 ---
@@ -106,12 +106,6 @@ backend:
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-  <img src="https://forthebadge.com/images/badges/uses-brains.svg"/>
-</p>
 
 <p align="center">
   <strong>"Código limpo não é um objetivo, é um estilo de vida."</strong>
