@@ -6,13 +6,13 @@
 
 ## 🧠 Sobre Mim
 
-Sou um desenvolvedor back-end apaixonado por tecnologia, qualidade de código e performance. 
-Tenho experiência em arquitetar sistemas escaláveis com boas práticas como:
+Desenvolvedor Back-End apaixonado por tecnologia e pela arte de construir software de alta qualidade. Minha missão é traduzir requisitos complexos em sistemas performáticos, escaláveis e fáceis de manter.
 
-- 🧼 Clean Code & SOLID
-- 🧪 TDD (Test Driven Development)
-- 🧹 DDD (Domain Driven Design)
-- 🔄 Integrações CI/CD
+Para isso, meu foco está em:
+
+* **Arquitetura de Software:** Utilização de `Arquitetura Limpa`, `SOLID` e `DDD` para criar sistemas desacoplados, testáveis e que evoluem com o negócio.
+* **Qualidade e Testes:** Aplicação de `TDD` para garantir um código robusto, com alta cobertura de testes e design emergente.
+* **Automação e DevOps:** Construção de pipelines de `CI/CD` para automatizar a integração e a entrega, trazendo agilidade e segurança ao processo.
 
 > "Transformar desafios técnicos em soluções limpas e elegantes é minha paixão."
 
@@ -20,32 +20,22 @@ Tenho experiência em arquitetar sistemas escaláveis com boas práticas como:
 
 ## 📚 Formação Acadêmica
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Graduação-ADS-blue?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/Pós--graduação-Engenharia%20de%20Software-yellow?style=for-the-badge&logo=book" />
-</p>
+<div align="center">
+  <a href="#URL_PARA_CERTIFICADO_GRADUACAO" title="Ver detalhes da Graduação"><img src="https://img.shields.io/badge/Graduação-Análise%20e%20Desenv.%20de%20Sistemas-blue?style=for-the-badge&logo=graduation-cap" alt="Badge: Graduação em Análise e Desenvolvimento de Sistemas"/></a> <a href="#URL_PARA_CERTIFICADO_POS_GRADUACAO" title="Ver detalhes da Pós-graduação"><img src="https://img.shields.io/badge/Pós--graduação-Engenharia%20de%20Software-yellow?style=for-the-badge&logo=book" alt="Badge: Pós-graduação em Engenharia de Software"/></a>
+</div>
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
-
-### 💻 Linguagens de Programação
-
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,cs" height="45" />
-
-### 🚀 Frameworks & Runtimes
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs" height="45" />
-
-### 📔️ Bancos de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="45" />
-
-### 🔧 DevOps & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode" height="45" />
+  
+| Categoria | Tecnologias |
+| :---: | :--- |
+| **Linguagens de Programação** | <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,cs" height="45" alt="Java, Python, JavaScript, C, C++, C#"/> |
+| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=spring,nodejs" height="45" alt="Spring Boot, Node.js"/> |
+| **Bancos de Dados** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="45" alt="MySQL, SQLite"/> |
+| **DevOps & Ferramentas** | <img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode" height="45" alt="Git, Docker, GitHub Actions, VSCode"/> |
 
 </div>
 
@@ -54,9 +44,9 @@ Tenho experiência em arquitetar sistemas escaláveis com boas práticas como:
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boltreskh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boltreskh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=boltreskh&locale=pt-br&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=boltreskh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boltreskh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=boltreskh&locale=pt-br&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ---
@@ -65,10 +55,18 @@ Tenho experiência em arquitetar sistemas escaláveis com boas práticas como:
 
 ```mermaid
 gantt
-title Linha do Tempo Profissional
-section Formação
-Graduação em ADS     :done, 2021-01-01, 2023-12-01
-Pós-graduação Eng. Software :active, 2025-01-01, 2026-12-01
+    title Linha do Tempo Profissional
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y-%m
+
+    section Formação
+    Análise e Desenv. de Sistemas :done, 2021-01-01, 2023-12-01
+    Pós-graduação em Eng. de Software :active, 2025-01-01, 2026-12-01
+
+    section Experiência
+    Advisor I, Chat Support :done, 2021-11-01, 2022-05-01
+    Subject Matter Expert - Operations :done, 2022-05-01, 2022-10-01
+    Team Leader - Operations :active, 2022-10-01, 2025-06-11
 ```
 
 ---
