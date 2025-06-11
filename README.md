@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-header-image.png" width="800" alt="Header">
+  <img src="./assets/github-header-image.png" width="1000" alt="Header">
 </p>
 
 ---
@@ -67,7 +67,7 @@ Tenho experiência em arquitetar sistemas escaláveis com boas práticas como:
 gantt
 title Linha do Tempo Profissional
 section Formação
-Graduação em ADS     :done, 2011-01-01, 2023-12-01
+Graduação em ADS     :done, 2021-01-01, 2023-12-01
 Pós-graduação Eng. Software :active, 2025-01-01, 2026-12-01
 ```
 
