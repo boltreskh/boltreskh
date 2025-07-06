@@ -67,7 +67,7 @@ gantt
     Advisor I, Chat Support :done, 2021-11-01, 2022-05-01
     Subject Matter Expert - Operations :done, 2022-05-01, 2022-10-01
     Team Leader - Operations :done, 2022-10-01, 2025-07-01
-    Training Coordinator :active, 2025-07-01, 2025-07-06
+    Training Coordinator :active, 2025-07-01, 2026-12-01
 ```
 
 ---
