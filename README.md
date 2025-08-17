@@ -21,7 +21,7 @@ Para isso, meu foco está em:
 ## 📚 Formação Acadêmica
 
 <div align="center">
-  <a href="#URL_PARA_CERTIFICADO_GRADUACAO" title="Ver detalhes da Graduação"><img src="https://img.shields.io/badge/Graduação-Análise%20e%20Desenv.%20de%20Sistemas-blue?style=for-the-badge&logo=graduation-cap" alt="Badge: Graduação em Análise e Desenvolvimento de Sistemas"/></a> <a href="#URL_PARA_CERTIFICADO_POS_GRADUACAO" title="Ver detalhes da Pós-graduação"><img src="https://img.shields.io/badge/Pós--graduação-Engenharia%20de%20Software-yellow?style=for-the-badge&logo=book" alt="Badge: Pós-graduação em Engenharia de Software"/></a>
+  <a href="https://www.linkedin.com/in/lucascandidoluiz/" title="Ver detalhes da Graduação"><img src="https://img.shields.io/badge/Graduação-Análise%20e%20Desenv.%20de%20Sistemas-blue?style=for-the-badge&logo=graduation-cap" alt="Badge: Graduação em Análise e Desenvolvimento de Sistemas"/></a> <a href="https://www.linkedin.com/in/lucascandidoluiz/" title="Ver detalhes da Pós-graduação"><img src="https://img.shields.io/badge/Pós--graduação-Engenharia%20de%20Software-yellow?style=for-the-badge&logo=book" alt="Badge: Pós-graduação em Engenharia de Software"/></a>
 </div>
 
 ---
@@ -95,7 +95,7 @@ backend:
 ## 📢 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucascandidoluiz/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="mailto:luizcandidolucas@hotmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo" /></a> <a href="https://linktr.ee/boltreskh" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo" /></a>
+  <a href="https://www.linkedin.com/in/lucascandidoluiz/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> <a href="https://linktr.ee/boltreskh" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo" /></a>
 </div>
 
 ---
