@@ -55,19 +55,13 @@ Para isso, meu foco está em:
 
 ```mermaid
 gantt
-    title Linha do Tempo Profissional
+    title Linha do Tempo Educacional
     dateFormat  YYYY-MM-DD
     axisFormat  %Y-%m
 
     section Formação
     Análise e Desenv. de Sistemas :done, 2021-01-01, 2023-12-01
     Pós-graduação em Eng. de Software :active, 2025-01-01, 2026-12-01
-
-    section Experiência
-    Advisor I, Chat Support :done, 2021-11-01, 2022-05-01
-    Subject Matter Expert - Operations :done, 2022-05-01, 2022-10-01
-    Team Leader - Operations :done, 2022-10-01, 2025-07-01
-    Training Coordinator :active, 2025-07-01, 2026-12-01
 ```
 
 ---
